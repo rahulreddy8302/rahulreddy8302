@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">hola 👋</h1>
 
-<!--
-**rahulreddy8302/rahulreddy8302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Who am I?
 
-Here are some ideas to get you started:
+Hi, I'm Rahul — a software engineer focused on building scalable web applications using **React, Java, Spring Boot** and modern cloud tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently: Software developer 
+- 🎯 Interests: System Design, Backend Architecture, Clean UI
+- ✍️ I write: Blogs / Notes / Projects
+
+---
+
+## 🛠️ Skills
+
+**Technical Skills:**
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 🌐 Connect with me
+
+- 💼 LinkedIn: (https://www.linkedin.com/in/rahulreddyamireddy/)
+- 🌐 Portfolio: https://your-portfolio.com
